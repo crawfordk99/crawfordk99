@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a senior CS major, DS minor student at Brigham Young University-Idaho. I've really enjoyed working on backend/API services. 
 
-- I'm currently working on Databricks, and learning pyspark to prepare/fine tune big data sets to advantage of machine learning to drive business insig
+- I'm currently working on Databricks, and learning pyspark to prepare/fine tune big data sets to advantage of machine learning to drive business insights.
 
 ## Technical Skills
 
