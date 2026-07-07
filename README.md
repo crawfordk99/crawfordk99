@@ -30,6 +30,10 @@ I'm a senior CS major, DS minor student at Brigham Young University-Idaho. I've 
 - Resources/Tools/Frameworks/Cloud I'm familiar with: Flutter, Firebase, npm, Docker, Spring Boot, Git
 - Data: R/RStudio, MySQL, PostgreSQL, Pandas, Pyspark, Databricks, tensorflow, pytorch
 
+## Favorite Project
+
+- My make every mile count project. You can find it below in my 6 pinned repositories. In particular I love this project because it was my first attempt at solving a real world problem that personally impacted me as I've done gig delivery driving before. I got to learn more about MVC design, Java, Spring Boot, and API development as I built the project. I hope to expand on it in the future beyond the time I dedicated to it for my senior project as there's plenty of room to improve it. 
+
 ## Other Sites
 
 - [LinkedIn](https://www.linkedin.com/in/kcjr3)
