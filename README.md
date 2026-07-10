@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I'm a senior CS major, DS minor student at Brigham Young University-Idaho. I've really enjoyed working on backend/API services. 
 
 - I'm currently working on Databricks, and learning pyspark to prepare/fine tune big data sets to advantage of machine learning to drive business insights.
+- I want to learn how to develop a test development mindset. I plan on expanding on the unit testing I explored during my senior project.
 
 ## Technical Skills
 
@@ -28,7 +29,7 @@ I'm a senior CS major, DS minor student at Brigham Young University-Idaho. I've 
 - Languages with significant project experience: Python, Java, C#
 - Languages I'm familiar with/have tinkered in: JavaScript (Next.JS Framwork for React as well), HTML/CSS, Erlang, Dart, Swift
 - Resources/Tools/Frameworks/Cloud I'm familiar with: Flutter, Firebase, npm, Docker, Spring Boot, Git
-- Data: R/RStudio, MySQL, PostgreSQL, Pandas, Pyspark, Databricks, tensorflow, pytorch
+- Data: R/RStudio, MySQL, PostgreSQL, Pandas, Pyspark, Databricks, tensorflow, pytorch, Excel
 
 ## Favorite Project
 
