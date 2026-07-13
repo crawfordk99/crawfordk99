@@ -38,4 +38,4 @@ I'm a senior CS major, DS minor student at Brigham Young University-Idaho. I've 
 ## Other Sites
 
 - [LinkedIn](https://www.linkedin.com/in/kcjr3)
-
+-[Portfolio (Will be updating soon)](https://discover-keith.vercel.app/)
